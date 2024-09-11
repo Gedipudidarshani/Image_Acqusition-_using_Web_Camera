@@ -1,7 +1,5 @@
 # Image_Acqusition-_using_Web_Camera
 ## Aim:
- 
- 
 To write a python program using OpenCV to capture the image from the web camera and do the following image manipulations.
 i) Write the frame as JPG 
 ii) Display the video 
@@ -11,7 +9,7 @@ iv) Rotate and display the video
 ## Software Used:
 Anaconda - Python 3.7
 ## Algorithm
-### Step 1:
+## Step 1:
 Use cv2.VideoCapture(0) to access web camera.
 
 ### Step 2:
@@ -28,7 +26,7 @@ End the program and close the output video window by pressing 'q'.
 
 ## Program:
 
-### Developed By:GEDIPUDI DARSHANI
+### Developed By: GEDIPUDI DARSHANI
 ### Register No: 212223230062
 ## i) Write the frame as JPG file
 ```
